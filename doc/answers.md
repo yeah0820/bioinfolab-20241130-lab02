@@ -37,11 +37,21 @@ data  doc  src  test
 
 
 ## 2-2. 다. 소스 제어
-의도치 않은 브랜치 생성으로 실패하였습니다.
+commit 317219fe42a0d793bae4fd49e960620f92958d89 (HEAD -> main, origin/main, origin/HEAD)
+Author: yeah0820 <syw20050820@gmail.com>
+Date:   Thu Sep 10 07:46:57 2026 +0000
+
+화면으로 커밋, 타이핑을 덜 해도 되어 편하다.
 
 
 ## 2-2. 라. 확장
 
 python: 2026.4.0
 jupyter: 2025.9.1
-교수님께서 넣어주심. 확장 파일 넣어두셨다고 하셨다.
+
+.devcontainer/devcontainer.json에
+
+"customizations": {
+    "vscode": {
+      "extensions": ["ms-python.python", "ms-toolsai.jupyter"],
+항목을 보아 강의자가 설치한것으로 보인다. 
