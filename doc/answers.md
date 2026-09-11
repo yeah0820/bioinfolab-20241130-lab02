@@ -37,6 +37,7 @@ data  doc  src  test
 
 
 ## 2-2. 다. 소스 제어
+숫자는 변경 사항 갯수를 의미한다.
 commit 317219fe42a0d793bae4fd49e960620f92958d89 (HEAD -> main, origin/main, origin/HEAD)
 Author: yeah0820 <syw20050820@gmail.com>
 Date:   Thu Sep 10 07:46:57 2026 +0000
