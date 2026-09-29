@@ -1,0 +1,6 @@
+total 0
+total 16
+-rw-rw-rw- 1 vscode vscode 1360 Sep 10 07:42 20241130_서예원.txt
+-rw-rw-rw- 1 vscode vscode 1741 Sep 11 08:35 answers.md
+-rw-rw-rw- 1 vscode vscode    8 Sep 29 07:30 list.txt
+-rw-rw-rw- 1 vscode vscode   15 Sep 15 04:41 README
